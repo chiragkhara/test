@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="INSERT_OR_UPDATE">
+        <color/>
+        <color_name display_value="Aquamarine">65b30204a9fe3dba007bfd80968f3933</color_name>
+        <display>background-color:#7FFFD4</display>
+        <element>sys_created_on</element>
+        <name>x_debag_test1_table</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 13:27:00</sys_created_on>
+        <sys_id>0223c34adb113300446da455ca961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_debag_test1_table</sys_name>
+        <sys_package display_value="test1" source="x_debag_test1">9add0507db04938008dd9004db9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">9add0507db04938008dd9004db9619fc</sys_scope>
+        <sys_update_name>sys_report_chart_color_0223c34adb113300446da455ca961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 13:27:00</sys_updated_on>
+        <value/>
+    </sys_report_chart_color>
+</record_update>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_app">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_category/>
         <license_model>none</license_model>
         <logo/>
         <menu display_value="test1">dadd0107db44938008dd9004db9619c3</menu>
@@ -18,7 +18,6 @@
         <source>x_debag_test1</source>
         <store_correlation_id/>
         <store_url/>
-        <sys_app_file/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>chourub</sys_created_by>
